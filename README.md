@@ -17,31 +17,6 @@ This repository contains:
 
 ---
 
-## Table of Contents
-1. [Project Motivation](#project-motivation)
-2. [What CareLens Does](#what-carelens-does)
-3. [Key Contributions](#key-contributions)
-4. [Disease Categories](#disease-categories)
-5. [Data](#data)
-   - [Training Dataset (Curated Q&A)](#training-dataset-curated-qa)
-   - [Implicit Symptom Test Dataset](#implicit-symptom-test-dataset)
-   - [Lexical Scrubbing Dataset](#lexical-scrubbing-dataset)
-6. [Experiment Design](#experiment-design)
-7. [Models Implemented](#models-implemented)
-8. [Results Summary (High-Level)](#results-summary-high-level)
-9. [Repository Structure](#repository-structure)
-10. [Setup](#setup)
-11. [How to Run (Quickstart)](#how-to-run-quickstart)
-12. [Training & Evaluation (Detailed)](#training--evaluation-detailed)
-13. [Reproducibility Notes](#reproducibility-notes)
-14. [HuggingFace Demo](#huggingface-demo)
-15. [Ethical Use & Safety](#ethical-use--safety)
-16. [Citations & References](#citations--references)
-17. [License](#license)
-18. [Contact](#contact)
-
----
-
 ## Project Motivation
 
 In many healthcare platforms (patient portals, symptom checkers, Q&A websites), users submit medical queries in free text:
