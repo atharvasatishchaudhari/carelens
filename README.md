@@ -112,7 +112,7 @@ CareLens supports classification into the following 10 categories:
 
 ## Data
 
-> ⚠️ Important: This project is for research/education. It is **not** a medical diagnosis tool.
+
 
 ### Training Dataset (Curated Q&A)
 - ~300 medical Q&A pairs (≈30 per disease category)
